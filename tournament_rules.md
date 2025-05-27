@@ -25,7 +25,7 @@ with the higher level.
 - If both teams are at the same level, the team with the highest number of A.I alive at the highest level wins.
 - If the number of A.I at the highest level is equal, the first team to have reach that level wins.
 
-# Do not
-Exploiting the server in a intentional malicious way (fork bomb, OOM, unsupported encoding) is not allowed and would result in a ban.
-However if you think you may have found any bug, please contact me at <christophe1.sundas@epitech.eu>
-
+# Notes
+- Exploiting the server in a intentional malicious way (fork bomb, OOM, unsupported encoding) is not allowed and would result in a ban.
+- If you think you found a bug, double check, it's a feature.
+- If you still think you found a bug, please contact me at <christophe1.sundas@epitech.eu>
